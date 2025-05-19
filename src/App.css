@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monomaniac+One&display=swap');
+
+@import "tailwindcss";
+
+:root{
+  --beige: #F5EEDC;
+  --ylnmn-blue: #27548A;
+  --japanese-indigo: #183B4E;
+  --indian-yellow: #DDA853;
+
+  --alice-blue:#F4F6FF;
+  --deep-lemon: #F3C623;
+  --beer: #EB8317;
+  --dark-midnight-blue: #10375C;
+
+  --font-lora: "Lora", serif;
+  --font-monomaniac-one: "Monomaniac One", sans-serif;
+}

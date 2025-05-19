@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root{
+  --beige: #F5EEDC;
+  --ylnmn-blue: #27548A;
+  --japanese-indigo: #183B4E;
+  --indian-yellow: #DDA853;
+
+  --lora: "Lora", serif;
+  --monomaniac-one: "Monomaniac One", sans-serif;
+}
